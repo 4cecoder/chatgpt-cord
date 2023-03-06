@@ -47,7 +47,8 @@ To use ChatGPT-Cord, you will need to create a Discord bot account and obtain it
 
 
 4. Run the bot by executing the following command in the terminal:
-`python `main.py`
+
+`python main.py`
 
 The bot will start listening for commands in all channels it has access to.
 
