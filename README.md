@@ -1,3 +1,5 @@
+![](https://github.com/user/banner.jpg)
+
 # ChatGPT-Cord
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://www.buymeacoffee.com/4cecoder)
