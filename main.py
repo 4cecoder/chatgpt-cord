@@ -106,4 +106,4 @@ async def ask(ctx, *, question):
     response = await chatbot_response(question)
     await ctx.send(response)
 
-bot.run(os.getenv('BOT_TOKEN'))
+bot.run(os.getenv('DISCORD_TOKEN'))
