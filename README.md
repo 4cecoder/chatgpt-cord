@@ -1,5 +1,7 @@
 # ChatGPT-Cord
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5H70V5)
+
 ChatGPT-Cord is a Discord chatbot powered by OpenAI's GPT language model.
 
 It can be used to generate human-like responses to user queries and engage in natural language conversations.
