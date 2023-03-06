@@ -12,11 +12,50 @@ To use ChatGPT-Cord, simply type the command "!ask" followed by your question or
 
 The bot will then process your input and generate a response based on its training and context. The response will be posted in the same channel where the command was issued.
 
+## Configuration
+
+1. Create account on [OpenAI's ChatGPT](https://chat.openai.com/)
+2. Save your email and password
+
+### Authentication method: (Choose 1)
+#### - Email/Password
+Not supported for Google/Microsoft accounts
+```json
+{
+  "email": "email",
+  "password": "your password"
+}
+```
+#### - Session token
+Comes from cookies on chat.openai.com as "__Secure-next-auth.session-token"
+
+```json
+{
+  "session_token": "..."
+}
+```
+#### - Access token
+https://chat.openai.com/api/auth/session
+```json
+{
+  "access_token": "<access_token>"
+}
+```
+
+#### - Optional configuration:
+
+```json
+{
+  "conversation_id": "UUID...",
+  "parent_id": "UUID...",
+  "proxy": "...",
+  "paid": false
+}
+```
+
 ## Installation
 
 To use ChatGPT-Cord, you will need to create a Discord bot account and obtain its token. You will also need to have Python 3.6 or higher installed on your system.
-
-
 
 1. Clone this repository to your local machine.
 2. Install the required Python packages by running the following command in the terminal:
@@ -55,8 +94,9 @@ To use ChatGPT-Cord, you will need to create a Discord bot account and obtain it
 The bot will start listening for commands in all channels it has access to.
 
 
-## Configuration
 
+3. Save this as `$HOME/.config/revChatGPT/config.json`
+4. If you are using Windows, you will need to create an environment variable named ```HOME``` and set it to your home profile for the script to be able to locate the config.json file.
 
 ## Credits
 
