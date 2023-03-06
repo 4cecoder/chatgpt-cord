@@ -17,6 +17,12 @@ The bot will then process your input and generate a response based on its traini
 1. Create account on [OpenAI's ChatGPT](https://chat.openai.com/)
 2. Save your email and password
 
+### authentication config file location
+
+`mkdir -p ~/.config/revChatGPT/ && touch ~/.config/revChatGPT/config.json`
+
+### Next add one of the following methods to link your OPENAI Account to the `~/.config/revChatGPT/config.json`
+
 ### Authentication method: (Choose 1)
 #### - Email/Password
 Not supported for Google/Microsoft accounts
