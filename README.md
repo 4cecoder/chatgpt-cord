@@ -1,6 +1,8 @@
 # ChatGPT-Cord
 
-ChatGPT-Cord is a Discord chatbot powered by OpenAI's GPT language model. It can be used to generate human-like responses to user queries and engage in natural language conversations.
+ChatGPT-Cord is a Discord chatbot powered by OpenAI's GPT language model.
+
+It can be used to generate human-like responses to user queries and engage in natural language conversations.
 
 ## Usage
 
