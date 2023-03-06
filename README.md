@@ -2,6 +2,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://www.buymeacoffee.com/4cecoder)
 
+![image](https://user-images.githubusercontent.com/88108711/223172044-a1af5641-a540-4763-bb28-39265db8c5ec.png)
+
+
 ChatGPT-Cord is a Discord chatbot powered by OpenAI's GPT language model.
 
 It can be used to generate human-like responses to user queries and engage in natural language conversations.
