@@ -103,8 +103,6 @@ To use ChatGPT-Cord, you will need to create a Discord bot account and obtain it
 
 The bot will start listening for commands in all channels it has access to.
 
-
-
 3. Save this as `$HOME/.config/revChatGPT/config.json`
 4. If you are using Windows, you will need to create an environment variable named ```HOME``` and set it to your home profile for the script to be able to locate the config.json file.
 
@@ -117,7 +115,9 @@ The bot will start listening for commands in all channels it has access to.
 
 ## Support
 
-If you have any questions, issues, or suggestions for improvement, please feel free to open an issue in the GitHub repository or contact me directly. Thanks for using ChatGPT-Cord!
+If you have any questions, issues, or suggestions for improvement, please feel free to open an issue in the GitHub repository or contact me directly. 
+
+Thanks for using ChatGPT-Cord!
 
 ### Licence
 
