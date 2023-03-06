@@ -104,12 +104,12 @@ The bot will start listening for commands in all channels it has access to.
 - ChatGPT-Cord would not be possible without the incredible natural language processing capabilities of the [OpenAI](https://openai.com/) ChatGPT model. We are grateful for their contributions to the field of AI and machine learning.
 - Thanks to [Antonio Cheong](https://github.com/acheong08) who reverse engineered the chatGPT API.
 - Thanks to [Rajtilak Bhattacharjee](https://github.com/rajtilakjee) for good documentation sections that I borrowed.
-### Licence
-The code is released under the MIT License.
 
 ## Support
 
 If you have any questions, issues, or suggestions for improvement, please feel free to open an issue in the GitHub repository or contact me directly. Thanks for using ChatGPT-Cord!
+
+### Licence
 
 MIT license with exceptions. See the full license for details.
 
