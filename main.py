@@ -7,7 +7,7 @@ from revChatGPT.V1 import Chatbot
 # from transformers import pipeline
 from dotenv import load_dotenv
 
-TLDR = 1000
+# TLDR = 1000
 
 # def summarize(text, max_length=512, min_length=30):
 #     summarizer = pipeline("summarization", "jordiclive/flan-t5-11b-summarizer-filtered", torch_dtype=torch.bfloat16)
