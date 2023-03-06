@@ -20,6 +20,8 @@ The bot will then process your input and generate a response based on its traini
 
 1. Create account on [OpenAI's ChatGPT](https://chat.openai.com/)
 2. Save your email and password
+3. Save this as `$HOME/.config/revChatGPT/config.json`
+4. If you are using Windows, you will need to create an environment variable named ```HOME``` and set it to your home profile for the script to be able to locate the config.json file.
 
 ### authentication config file location
 
@@ -104,9 +106,6 @@ and has to have `DISCORD_TOKEN=<paste your bot token>` for your bot
 `python main.py`
 
 The bot will start listening for commands in all channels it has access to.
-
-3. Save this as `$HOME/.config/revChatGPT/config.json`
-4. If you are using Windows, you will need to create an environment variable named ```HOME``` and set it to your home profile for the script to be able to locate the config.json file.
 
 ## Credits
 
