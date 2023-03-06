@@ -77,7 +77,9 @@ To use ChatGPT-Cord, you will need to create a Discord bot account and obtain it
 
 3. Set the environment variable `DISCORD_TOKEN` to the token of your Discord bot account.
 
-`.env` file needs to be created that has `DISCORD_TOKEN=<paste your bot token>` for your bot
+An `.env` file needs to be created within the same directory as chatgpt-cord/main.py
+
+and has to have `DISCORD_TOKEN=<paste your bot token>` for your bot
 
 
 # To create a Discord bot, follow these steps:
