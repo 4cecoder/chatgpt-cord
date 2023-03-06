@@ -58,7 +58,9 @@ The bot will start listening for commands in all channels it has access to.
 
 ## Credits
 
-ChatGPT-Cord was created by [4cecoder](https://github.com/4cecoder/) and is based on the OpenAI GPT 3.5 language model. 
+- ChatGPT-Cord was created by [4cecoder](https://github.com/4cecoder/) and is based on the OpenAI GPT 3.5 language model. 
+- ChatGPT-Cord would not be possible without the incredible natural language processing capabilities of the [OpenAI](https://openai.com/) ChatGPT model. We are grateful for their contributions to the field of AI and machine learning.
+- Thanks to [Antonio Cheong](https://github.com/acheong08) who reverse engineered the chatGPT API.
 
 ### Licence
 The code is released under the MIT License.
